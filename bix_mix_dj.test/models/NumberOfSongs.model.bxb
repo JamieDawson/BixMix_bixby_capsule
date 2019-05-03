@@ -1,0 +1,3 @@
+integer (NumberOfSongs) {
+  description (The number of songs requested by the user)
+}

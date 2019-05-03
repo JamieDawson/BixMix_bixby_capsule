@@ -1,0 +1,39 @@
+endpoints {
+  authorization{
+    oauth{
+      provider(Spotify)
+      grant-type (authorization_code)
+      authorize-endpoint (https://accounts.spotify.com/authorize)
+      client-id (73b6be8b3bdd40919f6fefc272a22f1b)
+      client-secret (9c54b3c2333749f9bcd1f3231967b99c)
+      scope (user-read-playback-state user-modify-playback-state playlist-modify-public playlist-modify-private)
+      token-endpoint (https://accounts.spotify.com/api/token)
+    }
+  }
+    action-endpoints {
+      action-endpoint (StartPlayer) {
+      accepted-inputs ($vivContext)
+      local-endpoint (Play.js)
+    }
+      action-endpoint (PausePlayer) {
+      accepted-inputs ($vivContext)
+      local-endpoint (Pause.js)
+    }
+    action-endpoint (NextSong) {
+      accepted-inputs ($vivContext)
+      local-endpoint (Next.js)
+    }
+    action-endpoint (PreviousSong) {
+      accepted-inputs ($vivContext)
+      local-endpoint (Previous.js)
+    }
+    action-endpoint (MakePlaylist) {
+      accepted-inputs (Tracks, playlistname)
+      local-endpoint (MakePlaylist.js)
+    }
+      action-endpoint (SearchByGenre) {
+        accepted-inputs (numberOfSongs, requestedTempo, requestedGenre)
+        local-endpoint (SearchByGenre.js)
+    }
+  }
+}

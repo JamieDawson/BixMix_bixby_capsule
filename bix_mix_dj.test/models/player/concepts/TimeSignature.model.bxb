@@ -1,0 +1,3 @@
+integer (TimeSignature) {
+  description (the time signature of a song)
+}

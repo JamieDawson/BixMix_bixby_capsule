@@ -1,0 +1,5 @@
+train (t-lfdjztq5lcv5ru9by0m82q0dz) {
+  utterance ("[g:SearchByGenre] get me (4)[v:NumberOfSongs] (latin)[v:Genre] tracks at (90)[v:RequestedTempo] bpm")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEkOQA=)
+  last-modified (1555405201795)
+}

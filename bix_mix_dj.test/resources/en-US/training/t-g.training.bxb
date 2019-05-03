@@ -1,0 +1,10 @@
+train (t-g0qt87k1dkvl2bwdin2fvtn2x) {
+  utterance ([g:NextSong] go forward)
+  plan (Y2BiEEnKrIjPBeKULL2S1OISvbzUihIGCXRRP6BocH5eOgMjEDJAMZAEAA==)
+  last-modified (1555374206292)
+}
+train (t-glxne176w0vcf16lin06il67g) {
+  utterance ("[g:SearchByGenre] get some (jazz)[v:Genre] songs")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEmsBwDAA==)
+  last-modified (1555472771347)
+}

@@ -1,0 +1,15 @@
+train (t-q0jjn7nt43v1x5jg2l9whl1q8) {
+  utterance ("[g:SearchByGenre] i wan't (10)[v:NumberOfSongs] tracks at (60)[v:RequestedTempo] beats per minute")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAFmIBssAwA=)
+  last-modified (1555404897548)
+}
+train (t-qbg6jy4fk8v5y1qvznapoy9i7) {
+  utterance ([g:NextSong] next)
+  plan (Y2BiEEnKrIjPBeKULL2S1OISvbzUihIGCXRRP6BocH5eOgMjEDJAMZAEAA==)
+  last-modified (1555369317365)
+}
+train (t-qdjjoiovmr7umisk0on5vmcqu) {
+  utterance ("[g:SearchByGenre] Get me (20)[v:NumberOfSongs:20] tracks at (90)[v:RequestedTempo:90] bpm")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAFmIBssAwA=)
+  last-modified (1555404914908)
+}

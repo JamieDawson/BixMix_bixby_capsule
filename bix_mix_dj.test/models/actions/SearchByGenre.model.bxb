@@ -1,0 +1,47 @@
+action (SearchByGenre) {
+  description (Get a number of random songs fitting bmp and genera requirements)
+  type (Search)
+  collect {
+    input (numberOfSongs) {
+      type (NumberOfSongs)
+      min (Optional) max (One)
+      default-init {
+        intent {
+          goal {NumberOfSongs}
+          value {NumberOfSongs(10)}
+        }
+      }
+      validate {
+        if (numberOfSongs > 50 || numberOfSongs < 1) {
+          replan {
+            intent {
+              goal {NumberOfSongs}
+              value {NumberOfSongs(10)}
+            }
+          }
+        }
+      }
+    }
+    input (requestedTempo) {
+      type (RequestedTempo)
+      min (Optional) max (One)
+      default-init {
+        intent {
+          goal {RequestedTempo}
+          value {RequestedTempo (-1)}
+        }
+      }
+    }
+    input  (requestedGenre) {
+      type (Genre)
+      min(Optional) max (One)
+      default-init {
+        intent {
+          goal {Genre}
+          value {Genre ("")}
+        }
+      }
+    }
+  }
+  output (Tracks)
+}

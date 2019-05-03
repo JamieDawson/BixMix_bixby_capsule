@@ -1,0 +1,15 @@
+train (t-s95tq6pm6o9ogmournciwqg70) {
+  utterance ("[g:MakePlaylist:continue:SearchByGenre] make me a playlist called (i don't know what this is)[v:playlistname]")
+  plan (Y2BhkEjKrIjPBeKULL2S1OISvYKcxMqczOISBhl0Gd/E7NQAmKwYumxIUWJydjGmLph5eYm5qQzMDIwMTECSAUiDIAQwAVlAMQA=)
+  last-modified (1555404865524)
+}
+train (t-sbk19oyi44j1jz3hbgyfeua7f) {
+  utterance ([g:SearchByGenre:continue] continue)
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEwGwA=)
+  last-modified (1555400404002)
+}
+train (t-sf08edlyt4omkt3a29c8rhu8q) {
+  utterance ([g:NextSong:continue] keep going)
+  plan (Y2BiEEnKrIjPBeKULL2S1OISvbzUihIGCXRRP6BocH5eOgMjEDJAMZAEAA==)
+  last-modified (1555372124318)
+}

@@ -1,0 +1,4 @@
+integer (RequestedTempo) {
+  description (The BPM of the song)
+  features {transient}
+}

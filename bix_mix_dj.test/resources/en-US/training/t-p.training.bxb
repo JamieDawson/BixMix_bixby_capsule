@@ -1,0 +1,20 @@
+train (t-p73vb1qnmj7p41d2ng4yl3rug) {
+  utterance ([g:PreviousSong] go to the previous track)
+  plan (Y2BikEjKrIjPBeKULL2S1OISvYKi1LLM/NJiBhl0mQCoTHB+XjoDIxAyQDGQBAA=)
+  last-modified (1555369794273)
+}
+train (t-pcycm5sj6hnaz9raa26bgpgs6) {
+  utterance ([g:SearchByGenre] Get me some music)
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEwGwA=)
+  last-modified (1555473980465)
+}
+train (t-pqsj7k32jd51pwuj6gxxeibrt) {
+  utterance ("[g:SearchByGenre] i want (20)[v:NumberOfSongs] songs at (140)[v:RequestedTempo] bpm in (electronic)[v:Genre]")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEkOQA=)
+  last-modified (1555387486898)
+}
+train (t-ps859twk96wm0adeh6dj53qoe) {
+  utterance ("[g:SearchByGenre] Get me some (disney)[v:Genre] music at (123)[v:RequestedTempo] beats per minute")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAFmsBxQBgA=)
+  last-modified (1555474034066)
+}

@@ -1,0 +1,20 @@
+train (t-in5uljj7mku3oj7dhvya4cuif) {
+  utterance ([g:PausePlayer] stop)
+  plan (Y2BiEE3KrIjPBeKULL2S1OISvYLE0uJUBml04QCQcEBOYmVqEQMjEDJAMZAEAA==)
+  last-modified (1555370892513)
+}
+train (t-invkik25n82lsrtti41cr1mtb) {
+  utterance ([g:PreviousSong] previous)
+  plan (Y2BikEjKrIjPBeKULL2S1OISvYKi1LLM/NJiBhl0mQCoTHB+XjoDIxAyQDGQBAA=)
+  last-modified (1555369718354)
+}
+train (t-ipzxgnwrzjqpvnk9zs9hoeamb) {
+  utterance ("[g:SearchByGenre] get me (10)[v:NumberOfSongs] songs in (deep house)[v:Genre] at (120)[v:RequestedTempo] bpm")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEkOQA=)
+  last-modified (1555472782129)
+}
+train (t-iwc0gelllqsfboy7yuubxu9nu) {
+  utterance ("[g:SearchByGenre] Give me (20)[v:NumberOfSongs] songs at (156)[v:RequestedTempo] beats per minute")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAFmIBssAwA=)
+  last-modified (1555404931172)
+}

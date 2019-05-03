@@ -1,0 +1,5 @@
+action (PausePlayer) {
+  type (Search)
+  description (Pause user playback)
+  output (pause)
+}

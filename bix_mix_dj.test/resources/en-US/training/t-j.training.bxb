@@ -1,0 +1,10 @@
+train (t-jfmycyjc6sgk7ikb53ymf7tfn) {
+  utterance ([g:StartPlayer] continue)
+  plan (Y2BiEEnKrIjPBeKULL2S1OISvYKcxEoGaXTR4JLEopIAoFRqEQMjEDJAMZAEAA==)
+  last-modified (1555315420186)
+}
+train (t-jfn239m6t0v7o01s4q2bekwp7) {
+  utterance ("[g:SearchByGenre] (20)[v:NumberOfSongs] (lofi)[v:Genre] tracks at (333)[v:RequestedTempo] bpm")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEkOQA=)
+  last-modified (1555474080459)
+}

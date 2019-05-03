@@ -1,0 +1,25 @@
+action (MakePlaylist) {
+  type (Search)
+  description (Create and populate a playlist)
+  collect {
+    input (Tracks) {
+      type (Tracks)
+      min (Required) max (One)
+    }
+    input (playlistname) {
+      type (playlistname)
+      min (Optional) max (One)
+      validate {
+        if (playlistname == null) {
+          replan {
+            intent {
+              goal {playlistname}
+              value {playlistname("give me a name")}
+            }
+          }
+        }
+      }
+    }
+  }
+  output (playlist)
+}

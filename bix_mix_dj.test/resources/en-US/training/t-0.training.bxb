@@ -1,0 +1,10 @@
+train (t-05cwtyt0yonzvcfytlwj643hx) {
+  utterance ([g:StartPlayer] play music)
+  plan (Y2BiEEnKrIjPBeKULL2S1OISvYKcxEoGaXTR4JLEopIAoFRqEQMjEDJAMZAEAA==)
+  last-modified (1555463743792)
+}
+train (t-0mtp1tixoukildwwj5tsl5w61) {
+  utterance ("[g:SearchByGenre] Get me (12)[v:NumberOfSongs] (country)[v:Genre] songs with a tempo of (111)[v:RequestedTempo]")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEkOQA=)
+  last-modified (1555307327916)
+}

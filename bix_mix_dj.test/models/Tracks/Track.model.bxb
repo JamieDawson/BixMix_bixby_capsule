@@ -1,0 +1,27 @@
+structure (Track) {
+  description (A track with a number of details)
+  property (id) {
+    type (TrackID)
+    min (Required) max (One)
+  }
+  property (name) {
+    type(TrackName)
+    min (Required) max (One)
+  }
+  property (tempo) {
+    type(Tempo)
+    min (Required) max (One)
+  }
+  property (image) {
+    type(TrackAlbumImage)
+    min (Required) max (One)
+  }
+  property (timeSignature) {
+    type(TimeSignature)
+    min (Required) max (One)
+  }
+  property (danceability) {
+    type(Danceability)
+    min (Required) max (One)
+  }
+}

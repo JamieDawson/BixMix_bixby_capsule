@@ -1,0 +1,5 @@
+train (t-3qy69yew75rqlzs5o8g5k4zy7) {
+  utterance ("[g:SearchByGenre] get me some songs at (132)[v:RequestedTempo] bpm from (EDM)[v:Genre]")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAFmsBxQBgA=)
+  last-modified (1555382718706)
+}

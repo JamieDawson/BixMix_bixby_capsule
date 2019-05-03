@@ -1,0 +1,4 @@
+text (Genre) {
+  description (Genre of requested tracks)
+  features {transient}
+}

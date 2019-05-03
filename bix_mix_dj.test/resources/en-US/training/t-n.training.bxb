@@ -1,0 +1,10 @@
+train (t-n7nekhaxr2kfih8pdto9kcwu8) {
+  utterance ("[g:MakePlaylist:continue:SearchByGenre] make a playlist called (dance party)[v:playlistname]")
+  plan (Y2BhkEjKrIjPBeKULL2S1OISvYKcxMqczOISBhl0Gd/E7NQAmKwYumxIUWJydjGmLph5eYm5qQzMDIwMTECSAUiDIAQwAVlAMQA=)
+  last-modified (1555404617247)
+}
+train (t-njswq6whe2n3hqthyppdmow21) {
+  utterance ("[g:SearchByGenre] Get (45)[v:NumberOfSongs] songs at (111)[v:RequestedTempo] bpm")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAFmIBssAwA=)
+  last-modified (1555474186537)
+}

@@ -1,0 +1,4 @@
+name (TrackName) {
+  description (name of the track)
+  features { transient}
+}

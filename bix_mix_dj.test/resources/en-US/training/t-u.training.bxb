@@ -1,0 +1,5 @@
+train (t-uln25o7lw2xp1rkhz9qm89y8j) {
+  utterance ("[g:SearchByGenre] i want some (latin)[v:Genre] beats at (130)[v:RequestedTempo] bpm")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAFmsBxQBgA=)
+  last-modified (1555380981054)
+}

@@ -1,0 +1,10 @@
+train (t-5b5gyzcmxhu7w7y1q4lzn69tu) {
+  utterance ([g:PausePlayer] Pause playback)
+  plan (Y2BiEE3KrIjPBeKULL2S1OISvYLE0uJUBml04QCQcEBOYmVqEQMjEDJAMZAEAA==)
+  last-modified (1555281168399)
+}
+train (t-5sidajpg0abuk3f57r3jvx6oq) {
+  utterance ("[g:SearchByGenre] i want (10)[v:NumberOfSongs] (pop)[v:Genre] songs with a bpm of (140)[v:RequestedTempo]")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEkOQA=)
+  last-modified (1555379309747)
+}

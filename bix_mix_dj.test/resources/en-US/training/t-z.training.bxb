@@ -1,0 +1,5 @@
+train (t-zkbiumr502klfh43y65cc64h2) {
+  utterance ("[g:SearchByGenre] Get some songs with a tempo of (88)[v:RequestedTempo]")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEmIBsoDgA=)
+  last-modified (1555474228249)
+}

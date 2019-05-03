@@ -1,0 +1,5 @@
+action (StartPlayer) {
+  type (Search)
+  description (Start user playback)
+  output (play)
+}

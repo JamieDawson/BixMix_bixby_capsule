@@ -1,0 +1,10 @@
+train (t-7j7p5gnet824o7rgv2vj84jt5) {
+  utterance ([g:SearchByGenre:continue] continue)
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEwGwA=)
+  last-modified (1555405147825)
+}
+train (t-7wqo0o74um5woy9d5257spwil) {
+  utterance ("[g:MakePlaylist:continue:SearchByGenre] make me a playlist with the name (i'm so awesome)[v:playlistname]")
+  plan (Y2BmkEjKrIjPBeKULL2S1OISvYKcxMqczOISBhl0Gd/E7NQAnLIwfXmJuakMTAyMQMwAJBkZQADKBwA=)
+  last-modified (1555399001967)
+}

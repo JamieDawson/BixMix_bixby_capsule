@@ -1,0 +1,3 @@
+integer (Tempo) {
+  description (The tempo of the song)
+}

@@ -1,0 +1,5 @@
+action (NextSong) {
+  type (Search)
+  description (Skip user's playback to next track)
+  output (next)
+}

@@ -1,0 +1,10 @@
+train (t-8a2uhul69jujeus0zq0solmpg) {
+  utterance ([g:SearchByGenre] Give me some tracks)
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAEwGwA=)
+  last-modified (1555405013547)
+}
+train (t-8s3xp30vuwn7u0f8dehob4lpw) {
+  utterance ("[g:SearchByGenre] get some (metal)[v:Genre] songs at (120)[v:RequestedTempo] beats per minute")
+  plan (Y2BlEEvKrIjPBeKULL2S1OISvZCixOTsYgZZdPHg1MSi5AynSvfUvKJUBlF0aYgwhi6/0tyk1CL/tOD8vPRiBjl06aDUwlIgnZoSkppbkM/AwsDIwMTADKQZgCwIhAFmsBxQBgA=)
+  last-modified (1555379405330)
+}

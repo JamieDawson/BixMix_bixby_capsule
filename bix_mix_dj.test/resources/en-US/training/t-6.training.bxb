@@ -1,0 +1,10 @@
+train (t-65vcgcbvf7uewlubrwco19eok) {
+  utterance ([g:NextSong] go to the next song)
+  plan (Y2BiEEnKrIjPBeKULL2S1OISvbzUihIGCXRRP6BocH5eOgMjEDJAMZAEAA==)
+  last-modified (1555369344020)
+}
+train (t-6zvp8kc0lo8e77nwgjbf77qad) {
+  utterance ("[g:MakePlaylist:continue:SearchByGenre] create a playlist called (this ones for mom)[v:playlistname]")
+  plan (Y2BmkEjKrIjPBeKULL2S1OISvYKcxMqczOISBhl0Gd/E7NQAnLIwfXmJuakMTAyMQMwAJBkZQADKBwA=)
+  last-modified (1555398853742)
+}
