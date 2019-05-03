@@ -1,4 +1,4 @@
-My team participated in the Bixby Hackathon that happened at [42 Silicon Valley](https://www.42.us.org/) created a capsule that's designed to help DJs find songs within a certain genre and BPM.
+I participated in the Bixby Hackathon that happened at [42 Silicon Valley](https://www.42.us.org/) with [Casey Singleton](https://github.com/CaseySingleton) and [Dylan Sotomayer](https://github.com/dsotomay) and we created a capsule that's designed to help DJs find songs within a certain genre and BPM.
 
 By simply telling BixMix "Give me 50 techno tracks at 100 beats per minute", BixMix will access the Spotify API and provide a list with of 50 techno songs with 100 BPM. 
 
