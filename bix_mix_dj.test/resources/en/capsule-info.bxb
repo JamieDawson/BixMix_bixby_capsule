@@ -1,0 +1,23 @@
+// resources/en/capsule-info.bxb
+capsule-info {
+  display-name (BixMix)
+  description (Get a list of up to 50 songs of any genre and BMP. Perfect for DJ's looking for songs to add to their list.)
+ // privacy-policy-url () //not needed
+  //terms-url () //not needed
+  search-keywords {
+    keyword (dj)
+    keyword (music)
+    keyword (genre)
+    keyword (bmp)
+    keyword (beats)
+  }
+  dispatch-name (BixMix)
+  dispatch-aliases {
+    alias (The bixmix capsule)
+  }
+  action-bg-color (#FFC50A)
+  action-fg-color (#443D32)
+ // android-app-id () //not needed.
+  developer-name (Jamie Dawson)
+  icon-asset (/icons/icon.png)
+}

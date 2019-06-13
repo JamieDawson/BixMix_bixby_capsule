@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    utterance (Get me 4 latin tracks at 90 bpm)
+    utterance (Get me jazz songs)
+    utterance (Metal songs at 120 beats per minute)
+  }
+}
